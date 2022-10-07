@@ -1,2 +1,2 @@
 #!/bin/bash
--s
+-s, --kernel-name
